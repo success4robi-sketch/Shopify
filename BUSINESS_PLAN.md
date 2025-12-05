@@ -23,7 +23,7 @@ This business plan outlines a strategy for launching a highly profitable Shopify
 
 ### Industry Overview
 
-- **Global Wellness Market Size**: $4.9 trillion (2023)
+- **Global Wellness Market Size**: $4.9 trillion (2023) *[Source: Global Wellness Institute]*
 - **Annual Growth Rate**: 5-10%
 - **E-commerce Share**: Growing rapidly, accelerated post-pandemic
 
@@ -135,8 +135,8 @@ This business plan outlines a strategy for launching a highly profitable Shopify
 |--------|--------------|----------|------------|
 | Average Order Value | $65 | $85 | $110 |
 | Conversion Rate | 2.5% | 3.5% | 4.5% |
-| Monthly Visitors | 62,000 | 34,000 | 21,000 |
-| Monthly Orders | 1,538 | 1,176 | 909 |
+| Monthly Visitors | 61,540 | 33,615 | 20,203 |
+| Monthly Orders | 1,539 | 1,177 | 909 |
 | Monthly Revenue | $100,000 | $100,000 | $100,000 |
 
 ### Revenue Streams
